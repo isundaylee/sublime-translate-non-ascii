@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Translate Non-ASCII Characters",
+    "command": "translate_extended_chars"
+  }
+]
